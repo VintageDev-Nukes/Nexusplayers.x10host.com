@@ -1,0 +1,84 @@
+[25-Aug-2013 14:23:06 America/Chicago] PHP Warning:  phpinfo() has been disabled for security reasons in /home/nexuspla/public_html/phpinfo.php on line 2
+[27-Aug-2013 04:08:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nexuspla/public_html/Sources/Subs.php on line 1583
+[27-Aug-2013 04:13:31 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/nexuspla/public_html/Sources/Subs.php on line 1583
+[27-Aug-2013 04:13:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nexuspla/public_html/Sources/Subs.php on line 2961
+[27-Aug-2013 04:19:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nexuspla/public_html/Sources/Subs.php on line 1583
+[27-Aug-2013 04:24:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nexuspla/public_html/Sources/Subs.php on line 1583
+[27-Aug-2013 04:24:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nexuspla/public_html/Sources/Subs.php on line 1583
+[27-Aug-2013 04:26:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nexuspla/public_html/Sources/Subs.php on line 1583
+[27-Aug-2013 04:26:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/nexuspla/public_html/Sources/Subs.php on line 1989
+[27-Aug-2013 04:27:15 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nexuspla/public_html/Sources/Subs.php on line 3556
+[27-Aug-2013 04:30:10 America/Chicago] PHP Warning:  Unterminated comment starting line 936 in /home/nexuspla/public_html/Sources/Subs.php on line 936
+[27-Aug-2013 04:30:10 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nexuspla/public_html/Sources/Subs.php on line 993
+[27-Aug-2013 04:30:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/nexuspla/public_html/Sources/Subs.php on line 1572
+[27-Aug-2013 13:14:46 Europe/Madrid] PHP Fatal error:  Call to undefined function call_integration_hook() in /home/nexuspla/public_html/Sources/Load.php on line 296
+[27-Aug-2013 06:22:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nexuspla/public_html/Sources/Subs.php on line 2803
+[27-Aug-2013 06:37:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nexuspla/public_html/Sources/Subs.php on line 818
+[27-Aug-2013 06:37:25 America/Chicago] PHP Parse error:  syntax error, unexpected ''allo' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/nexuspla/public_html/Sources/Subs.php on line 4063
+[27-Aug-2013 06:46:11 America/Chicago] PHP Warning:  Unterminated comment starting line 17 in /home/nexuspla/public_html/Sources/Subs.php on line 17
+[27-Aug-2013 06:46:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/nexuspla/public_html/Sources/Subs.php on line 212
+[27-Aug-2013 14:03:09 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/nexuspla/public_html/Sources/Load.php(2218) : eval()'d code on line 131
+[27-Aug-2013 14:24:59 Europe/Madrid] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nexuspla/public_html/Sources/Load.php(2218) : eval()'d code on line 129
+[27-Aug-2013 14:55:25 Europe/Madrid] PHP Parse error:  syntax error, unexpected ''<style>#refcop {display:none;' (T_ENCAPSED_AND_WHITESPACE) in /home/nexuspla/public_html/Sources/Load.php(2218) : eval()'d code on line 279
+[27-Aug-2013 15:04:50 Europe/Madrid] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE), expecting ',' or ';' in /home/nexuspla/public_html/Sources/Load.php(2218) : eval()'d code on line 134
+[27-Aug-2013 15:04:53 Europe/Madrid] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE), expecting ',' or ';' in /home/nexuspla/public_html/Sources/Load.php(2218) : eval()'d code on line 134
+[27-Aug-2013 15:45:32 America/Chicago] PHP Warning:  require(check.php): failed to open stream: No such file or directory in /home/nexuspla/public_html/news-box.php on line 8
+[27-Aug-2013 15:45:32 America/Chicago] PHP Warning:  require(check.php): failed to open stream: No such file or directory in /home/nexuspla/public_html/news-box.php on line 8
+[27-Aug-2013 15:45:32 America/Chicago] PHP Fatal error:  require(): Failed opening required 'check.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nexuspla/public_html/news-box.php on line 8
+[28-Aug-2013 05:10:38 America/Chicago] PHP Notice:  Undefined variable: rd in /home/nexuspla/public_html/news-box.php on line 53
+[28-Aug-2013 05:10:38 America/Chicago] PHP Notice:  Undefined variable: rd in /home/nexuspla/public_html/news-box.php on line 53
+[28-Aug-2013 05:10:38 America/Chicago] PHP Notice:  Undefined variable: rd in /home/nexuspla/public_html/news-box.php on line 53
+[28-Aug-2013 05:10:38 America/Chicago] PHP Notice:  Undefined variable: rd in /home/nexuspla/public_html/news-box.php on line 53
+[28-Aug-2013 05:10:38 America/Chicago] PHP Notice:  Undefined variable: rd in /home/nexuspla/public_html/news-box.php on line 53
+[28-Aug-2013 05:10:38 America/Chicago] PHP Notice:  Undefined variable: rd in /home/nexuspla/public_html/news-box.php on line 53
+[28-Aug-2013 05:10:38 America/Chicago] PHP Notice:  Undefined variable: rd in /home/nexuspla/public_html/news-box.php on line 53
+[28-Aug-2013 05:10:38 America/Chicago] PHP Notice:  Undefined variable: rd in /home/nexuspla/public_html/news-box.php on line 53
+[28-Aug-2013 05:10:38 America/Chicago] PHP Notice:  Undefined variable: rd in /home/nexuspla/public_html/news-box.php on line 53
+[28-Aug-2013 05:51:48 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nexuspla/public_html/check.php on line 2
+[28-Aug-2013 05:51:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nexuspla/public_html/check.php:2) in /home/nexuspla/public_html/actioner.php on line 26
+[28-Aug-2013 05:53:58 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nexuspla/public_html/check.php on line 2
+[28-Aug-2013 05:53:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nexuspla/public_html/check.php:2) in /home/nexuspla/public_html/actioner.php on line 28
+[28-Aug-2013 05:57:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nexuspla/public_html/check.php on line 2
+[28-Aug-2013 05:57:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nexuspla/public_html/check.php:2) in /home/nexuspla/public_html/actioner.php on line 25
+[28-Aug-2013 06:00:37 America/Chicago] PHP Notice:  Undefined index: value in /home/nexuspla/public_html/actioner.php on line 15
+[28-Aug-2013 06:00:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nexuspla/public_html/actioner.php:15) in /home/nexuspla/public_html/actioner.php on line 20
+[28-Aug-2013 06:02:16 America/Chicago] PHP Notice:  Undefined index: value in /home/nexuspla/public_html/actioner.php on line 15
+[28-Aug-2013 06:02:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nexuspla/public_html/actioner.php:15) in /home/nexuspla/public_html/actioner.php on line 21
+[28-Aug-2013 06:02:57 America/Chicago] PHP Notice:  Undefined index: value in /home/nexuspla/public_html/actioner.php on line 15
+[28-Aug-2013 06:02:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nexuspla/public_html/actioner.php:15) in /home/nexuspla/public_html/actioner.php on line 30
+[28-Aug-2013 13:11:13 Europe/Madrid] PHP Fatal error:  require_once(): Failed opening required '/home/nexuspla/public_html/Sources/Settings.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nexuspla/public_html/Sources/Load.php(2218) : eval()'d code on line 354
+[28-Aug-2013 13:15:04 Europe/Madrid] PHP Parse error:  syntax error, unexpected ''?action=.xml;type=rss" class=' (T_ENCAPSED_AND_WHITESPACE) in /home/nexuspla/public_html/Sources/Load.php(2218) : eval()'d code on line 561
+[28-Aug-2013 13:18:53 Europe/Madrid] PHP Parse error:  syntax error, unexpected ''/NexusLog' (T_ENCAPSED_AND_WHITESPACE) in /home/nexuspla/public_html/Sources/Load.php(2218) : eval()'d code on line 348
+[28-Aug-2013 13:26:07 Europe/Madrid] PHP Parse error:  syntax error, unexpected ''require_theme_strin' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/nexuspla/public_html/Sources/Load.php(2218) : eval()'d code on line 74
+[30-Aug-2013 21:10:11 Europe/Madrid] PHP Fatal error:  Call to undefined function Check_Badges() in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 82
+[30-Aug-2013 21:13:53 Europe/Madrid] PHP Parse error:  syntax error, unexpected ';' in /home/nexuspla/public_html/Sources/badges.php on line 33
+[30-Aug-2013 21:14:27 Europe/Madrid] PHP Parse error:  syntax error, unexpected '>=' (T_IS_GREATER_OR_EQUAL) in /home/nexuspla/public_html/Sources/badges.php on line 56
+[30-Aug-2013 21:17:59 Europe/Madrid] PHP Parse error:  syntax error, unexpected '>' in /home/nexuspla/public_html/Sources/badges.php on line 56
+[30-Aug-2013 21:32:57 Europe/Madrid] PHP Fatal error:  require_once(): Failed opening required '/home/nexuspla/public_html/Sources/Settings.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nexuspla/public_html/Sources/badges.php on line 675
+[30-Aug-2013 21:37:55 Europe/Madrid] PHP Parse error:  syntax error, unexpected ''</span></li></ul>' (T_ENCAPSED_AND_WHITESPACE) in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 419
+[31-Aug-2013 11:14:41 Europe/Madrid] PHP Parse error:  syntax error, unexpected end of file in /home/nexuspla/public_html/Sources/badges.php on line 470
+[31-Aug-2013 11:23:27 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/nexuspla/public_html/Sources/badges.php on line 677
+[31-Aug-2013 11:23:37 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/nexuspla/public_html/Sources/badges.php on line 677
+[31-Aug-2013 11:35:20 Europe/Madrid] PHP Parse error:  syntax error, unexpected end of file in /home/nexuspla/public_html/Sources/badges.php on line 581
+[31-Aug-2013 11:49:51 Europe/Madrid] PHP Parse error:  syntax error, unexpected end of file in /home/nexuspla/public_html/Sources/badges.php on line 52
+[31-Aug-2013 21:53:02 Europe/Madrid] PHP Parse error:  syntax error, unexpected end of file in /home/nexuspla/public_html/Sources/badges.php on line 581
+[01-Sep-2013 14:55:20 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 462
+[01-Sep-2013 08:00:31 America/Chicago] PHP Notice:  Undefined variable: user_info in /home/nexuspla/public_html/news-box.php on line 73
+[01-Sep-2013 08:00:31 America/Chicago] PHP Warning:  unserialize() expects parameter 1 to be string, resource given in /home/nexuspla/public_html/news-box.php on line 74
+[01-Sep-2013 08:01:03 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/nexuspla/public_html/news-box.php on line 73
+[01-Sep-2013 08:01:26 America/Chicago] PHP Warning:  unserialize() expects parameter 1 to be string, resource given in /home/nexuspla/public_html/news-box.php on line 74
+[01-Sep-2013 08:02:07 America/Chicago] PHP Warning:  unserialize() expects parameter 1 to be string, array given in /home/nexuspla/public_html/news-box.php on line 74
+[01-Sep-2013 08:02:35 America/Chicago] PHP Notice:  Array to string conversion in /home/nexuspla/public_html/news-box.php on line 74
+[01-Sep-2013 08:08:11 America/Chicago] PHP Warning:  Illegal string offset 'badge_id' in /home/nexuspla/public_html/news-box.php on line 79
+[01-Sep-2013 08:08:44 America/Chicago] PHP Warning:  Illegal string offset 'badge_id' in /home/nexuspla/public_html/news-box.php on line 79
+[01-Sep-2013 20:35:41 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 115
+[01-Sep-2013 20:41:40 Europe/Madrid] PHP Parse error:  syntax error, unexpected '", comentarios hechos: "' (T_CONSTANT_ENCAPSED_STRING) in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 52
+[01-Sep-2013 20:46:04 Europe/Madrid] PHP Parse error:  syntax error, unexpected '", comentarios hechos: "' (T_CONSTANT_ENCAPSED_STRING) in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 52
+[01-Sep-2013 20:48:34 Europe/Madrid] PHP Parse error:  syntax error, unexpected '', comentarios hechos: '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 110
+[01-Sep-2013 21:39:34 Europe/Madrid] PHP Parse error:  syntax error, unexpected ';' in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 31
+[01-Sep-2013 21:40:43 Europe/Madrid] PHP Parse error:  syntax error, unexpected ';' in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 30
+[01-Sep-2013 21:43:03 Europe/Madrid] PHP Parse error:  syntax error, unexpected ';' in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 28
+[01-Sep-2013 21:43:45 Europe/Madrid] PHP Parse error:  syntax error, unexpected ';' in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 28
+[01-Sep-2013 21:44:11 Europe/Madrid] PHP Parse error:  syntax error, unexpected ';' in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 32
+[01-Sep-2013 21:44:38 Europe/Madrid] PHP Parse error:  syntax error, unexpected ';' in /home/nexuspla/public_html/Sources/badges.php on line 19
+[01-Sep-2013 23:34:47 Europe/Madrid] PHP Parse error:  syntax error, unexpected '.' in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 286

@@ -1,0 +1,47 @@
+[02-Nov-2013 01:58:13 Europe/Madrid] PHP Notice:  Undefined variable: str in /home/nexuspla/public_html/test.php on line 55
+[01-Nov-2013 20:12:42 America/Chicago] PHP Parse error:  syntax error, unexpected '' segundos.'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nexuspla/public_html/test.php on line 389
+[01-Nov-2013 20:12:46 America/Chicago] PHP Parse error:  syntax error, unexpected '' segundos.'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nexuspla/public_html/test.php on line 389
+[02-Nov-2013 17:59:31 Europe/Madrid] PHP Fatal error:  Class 'Paginator' not found in /home/nexuspla/public_html/test.php on line 24
+[02-Nov-2013 12:38:56 America/Chicago] PHP Notice:  Undefined index: cat in /home/nexuspla/public_html/envia.php on line 38
+[02-Nov-2013 12:38:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nexuspla/public_html/envia.php:38) in /home/nexuspla/public_html/envia.php on line 46
+[02-Nov-2013 12:38:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nexuspla/public_html/envia.php:38) in /home/nexuspla/public_html/envia.php on line 56
+[02-Nov-2013 12:39:24 America/Chicago] PHP Notice:  Undefined index: cat in /home/nexuspla/public_html/envia.php on line 38
+[02-Nov-2013 12:39:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nexuspla/public_html/envia.php:38) in /home/nexuspla/public_html/envia.php on line 46
+[02-Nov-2013 12:39:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nexuspla/public_html/envia.php:38) in /home/nexuspla/public_html/envia.php on line 56
+[06-Nov-2013 10:30:40 America/Chicago] PHP Notice:  Undefined variable: localhost in /home/nexuspla/public_html/create.php on line 16
+[06-Nov-2013 10:30:40 America/Chicago] PHP Notice:  Undefined variable: dbuser in /home/nexuspla/public_html/create.php on line 16
+[06-Nov-2013 10:30:40 America/Chicago] PHP Notice:  Undefined variable: dbpass in /home/nexuspla/public_html/create.php on line 16
+[06-Nov-2013 10:30:40 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/nexuspla/public_html/create.php on line 16
+[06-Nov-2013 10:31:18 America/Chicago] PHP Notice:  Undefined variable: dbname in /home/nexuspla/public_html/create.php on line 15
+[06-Nov-2013 10:31:18 America/Chicago] PHP Notice:  Undefined variable: link in /home/nexuspla/public_html/create.php on line 35
+[06-Nov-2013 10:31:18 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/nexuspla/public_html/create.php on line 35
+[06-Nov-2013 18:41:31 Europe/Madrid] PHP Parse error:  syntax error, unexpected '}' in /home/nexuspla/public_html/visit.php on line 81
+[06-Nov-2013 18:41:57 Europe/Madrid] PHP Notice:  Undefined index: Last_Activity in /home/nexuspla/public_html/visit.php on line 11
+[06-Nov-2013 18:41:57 Europe/Madrid] PHP Notice:  Undefined variable: page in /home/nexuspla/public_html/visit.php on line 13
+[06-Nov-2013 18:41:57 Europe/Madrid] PHP Notice:  Undefined variable: page in /home/nexuspla/public_html/visit.php on line 28
+[06-Nov-2013 18:41:57 Europe/Madrid] PHP Notice:  Undefined variable: link in /home/nexuspla/public_html/visit.php on line 61
+[06-Nov-2013 18:41:57 Europe/Madrid] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nexuspla/public_html/visit.php on line 61
+[06-Nov-2013 18:41:57 Europe/Madrid] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nexuspla/public_html/visit.php on line 62
+[06-Nov-2013 18:41:57 Europe/Madrid] PHP Notice:  Undefined variable: link in /home/nexuspla/public_html/visit.php on line 77
+[06-Nov-2013 18:41:57 Europe/Madrid] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/nexuspla/public_html/visit.php on line 77
+[06-Nov-2013 18:43:13 Europe/Madrid] PHP Notice:  Undefined index: Last_Activity in /home/nexuspla/public_html/visit.php on line 11
+[06-Nov-2013 18:43:13 Europe/Madrid] PHP Notice:  Undefined variable: link in /home/nexuspla/public_html/visit.php on line 61
+[06-Nov-2013 18:43:13 Europe/Madrid] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nexuspla/public_html/visit.php on line 61
+[06-Nov-2013 18:43:13 Europe/Madrid] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nexuspla/public_html/visit.php on line 62
+[06-Nov-2013 18:43:13 Europe/Madrid] PHP Notice:  Undefined variable: link in /home/nexuspla/public_html/visit.php on line 77
+[06-Nov-2013 18:43:13 Europe/Madrid] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/nexuspla/public_html/visit.php on line 77
+[06-Nov-2013 18:43:58 Europe/Madrid] PHP Notice:  Undefined index: Last_Activity in /home/nexuspla/public_html/visit.php on line 11
+[06-Nov-2013 19:00:56 Europe/Madrid] PHP Warning:  include(/home/nexuspla/public_htmlvisit.php): failed to open stream: No such file or directory in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 40
+[06-Nov-2013 19:00:56 Europe/Madrid] PHP Warning:  include(): Failed opening '/home/nexuspla/public_htmlvisit.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 40
+[06-Nov-2013 19:01:12 Europe/Madrid] PHP Warning:  include(/home/nexuspla/public_htmlvisit.php): failed to open stream: No such file or directory in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 40
+[06-Nov-2013 19:01:12 Europe/Madrid] PHP Warning:  include(): Failed opening '/home/nexuspla/public_htmlvisit.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 40
+[06-Nov-2013 21:12:29 Europe/Madrid] PHP Warning:  include(/home/nexuspla/public_htmlvisit.php): failed to open stream: No such file or directory in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 40
+[06-Nov-2013 21:12:29 Europe/Madrid] PHP Warning:  include(): Failed opening '/home/nexuspla/public_htmlvisit.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nexuspla/public_html/Sources/Load.php(2232) : eval()'d code on line 40
+[06-Nov-2013 21:12:53 Europe/Madrid] PHP Notice:  Undefined variable: db_server in /home/nexuspla/public_html/visit.php on line 4
+[06-Nov-2013 21:12:53 Europe/Madrid] PHP Notice:  Undefined variable: db_user in /home/nexuspla/public_html/visit.php on line 4
+[06-Nov-2013 21:12:53 Europe/Madrid] PHP Notice:  Undefined variable: db_passwd in /home/nexuspla/public_html/visit.php on line 4
+[06-Nov-2013 21:12:53 Europe/Madrid] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/nexuspla/public_html/visit.php on line 4
+[06-Nov-2013 21:12:56 Europe/Madrid] PHP Notice:  Undefined variable: db_server in /home/nexuspla/public_html/visit.php on line 4
+[06-Nov-2013 21:12:56 Europe/Madrid] PHP Notice:  Undefined variable: db_user in /home/nexuspla/public_html/visit.php on line 4
+[06-Nov-2013 21:12:56 Europe/Madrid] PHP Notice:  Undefined variable: db_passwd in /home/nexuspla/public_html/visit.php on line 4
+[06-Nov-2013 21:12:56 Europe/Madrid] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/nexuspla/public_html/visit.php on line 4

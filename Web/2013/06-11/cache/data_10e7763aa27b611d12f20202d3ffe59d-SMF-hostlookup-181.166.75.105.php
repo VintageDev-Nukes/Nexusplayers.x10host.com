@@ -1,0 +1,1 @@
+<?php if (!defined('SMF')) die; if (1383769239 < time()) $expired = true; else{$expired = false; $value = 's:30:"105-75-166-181.fibertel.com.ar";';}?>

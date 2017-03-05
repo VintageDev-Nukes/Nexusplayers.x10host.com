@@ -1,0 +1,7 @@
+[21-Aug-2013 10:44:47 America/Chicago] PHP Parse error:  syntax error, unexpected ''</span></li> </ul>' (T_ENCAPSED_AND_WHITESPACE) in /home/nexuspla/public_html/Themes/ikillcraft/index.template.php on line 402
+[21-Aug-2013 14:43:32 America/Chicago] PHP Parse error:  syntax error, unexpected ''" />' (T_ENCAPSED_AND_WHITESPACE) in /home/nexuspla/public_html/Themes/ikillcraft/index.template.php on line 223
+[27-Aug-2013 07:03:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/nexuspla/public_html/Themes/ikillcraft/index.template.php on line 131
+[28-Aug-2013 06:15:04 America/Chicago] PHP Parse error:  syntax error, unexpected ''extr' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/nexuspla/public_html/Themes/ikillcraft/index.template.php on line 604
+[28-Aug-2013 06:18:53 America/Chicago] PHP Parse error:  syntax error, unexpected ''/NexusLog' (T_ENCAPSED_AND_WHITESPACE) in /home/nexuspla/public_html/Themes/ikillcraft/index.template.php on line 348
+[28-Aug-2013 06:26:07 America/Chicago] PHP Parse error:  syntax error, unexpected ''require_theme_strin' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/nexuspla/public_html/Themes/ikillcraft/index.template.php on line 74
+[30-Aug-2013 14:37:55 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nexuspla/public_html/Themes/ikillcraft/index.template.php on line 701

@@ -1,0 +1,59 @@
+/* TUTORIAL CSS BY IKILLNUKES PA' ELEKTRO H@CKER xD */
+
+/* Para empezar CSS no lo tienes que declarar con nada, al contrario de php que por ejemplo lo empiezas declarando con <?php y lo cierras con ?> 
+(por lo menos si es un archivo solo no, como por ejemplo este)
+Luego ya si lo tienes que llamar desde un gHTML sería algo tal que así (dentro del archivo HTML)
+
+<link rel="stylesheet" type="text/css" href="ARCHIVO.css">  
+
+vale una vez aquí en el archivo CSS para empezar tenemos que tener en cuenta varias cosas (solo 2) este archivo y el archivo HTML
+si queremos darle estilo a un DIV (una etiqueta de HTML (en VB.NET por ejemplo (no el equivalente), pues un botón, un TextBox, un Label, etc)) 
+por ejemplo, se declararía algo tal que así <div></div>, entonces si lo queremos indexar directamente, podemos hacer esto <div class="cacoca"></div>,
+esa class luego la llamamos desde el CSS con .cacoca, también puede ser un id, en vez de un class <div id="cacoca">...
+
+entonces sería con #cacoca, ahora tendriamos que darle algun estilo:
+
+#cacoca {width:100px;} ó
+.cacoca {width:100px;} ahí ya le estás diciendo que el DIV "cacoca" tiene 100px de ANCHURA, entonces
+
+para verte más propiedades, tienes esta web:
+
+http://w3schools.com/css/default.asp
+
+Entonces, si por ejemplo no quieres usar ningún archivo CSS, puedes usar la propiedad STYLE dentro de HTML, ejemplo:
+
+<div style="width:100px"></div>
+
+y ya ahi no tienes que declarar si es un class o un id...
+
+Vale, ahora, si queremos generalizar un estilo a una etiqueta HTML como <body>, <html>, <img>, <b>, <br>, <p>, <div>, <span>, <li>, <ul>, <pre>, <u>, <i>, etc etc etc
+
+Sería algo tal que así:
+
+Con el body:
+
+body {font-size:12px;}
+
+Ahí ya estás diciendo que el tamaño de fuente de el body es de 12px,
+
+otro ejemplo:
+
+img {width:100px; height:40%;}
+
+Ahí estás diciendo que todas las etiquetas <img> (imágenes) del un archivo HTML tienen 100px de ancho y 40% del total de la altura del navegador
+
+Ah! por cierto, si no quieres llamar el archivo desde:
+
+<link rel="stylesheet" type="text/css" href="ARCHIVO.css"> 
+puedes usar las etiquetas <style></style>
+y hacer que funcionen como un archivo CSS incrutado directamente en HTML
+
+Ale, hasta aquí el tuto de CSS mirate las propiedades w3schools
+
+y no me vengas luego a poner burradas del tipo:
+
+b {width:100px;}
+
+XD Un saludo...
+
+Que digo, yeeeepaleeee con las cabraaaaas xD */

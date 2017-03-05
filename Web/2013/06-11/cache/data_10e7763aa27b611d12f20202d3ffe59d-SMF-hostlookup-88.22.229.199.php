@@ -1,0 +1,1 @@
+<?php if (!defined('SMF')) die; if (1383754247 < time()) $expired = true; else{$expired = false; $value = 's:39:"199.Red-88-22-229.staticIP.rima-tde.net";';}?>

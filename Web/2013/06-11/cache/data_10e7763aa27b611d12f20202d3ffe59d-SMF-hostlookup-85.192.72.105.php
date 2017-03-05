@@ -1,0 +1,1 @@
+<?php if (!defined('SMF')) die; if (1383725623 < time()) $expired = true; else{$expired = false; $value = 's:25:"iesconselldecent.xtec.cat";';}?>

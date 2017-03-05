@@ -1,0 +1,1 @@
+<?php if (!defined('SMF')) die; if (1382058241 < time()) $expired = true; else{$expired = false; $value = 's:36:"5-175-238-213.ip.idealhosting.net.tr";';}?>

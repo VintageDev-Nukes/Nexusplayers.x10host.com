@@ -1,0 +1,109 @@
+html,body {
+	background: #FFFFFF url(images/background.png) repeat;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+	height:100%;
+	width:100%;
+	margin-top:0!important;padding-top:0!important;min-width:800px!important;margin:0;margin-bottom: 80px;
+}
+
+#logo {
+width:247px;
+height:33px;
+background: #2E2E2E;
+border: 1px #FFFFFF solid;
+}
+
+#content {
+position:relative;
+top:80px;
+background-color:#ffffff;
+border:solid #000000 1px;
+width:723px;
+}
+
+#pass {
+background-color:#ffffff;
+border:solid #000000 1px;
+width:250px;
+position:relative;
+top:200px;
+}
+
+#admin {
+background-color:#ffffff;
+border:solid #000000 1px;
+width:700px;
+position:relative;
+top:0px;
+}
+
+.sub {border:solid #000000 1px; text-align:center;}
+
+.titulos {  font-family: "Trebuchet MS", Verdana, Arial; font-size: 14px; font-weight: bold; color: #000000;}
+.txt_desc {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #333333; padding-right: 5px; padding-left: 5px}
+
+A {text-decoration: none;
+color:#000000;}
+A:hover {text-decoration: underline;
+color:#FF0000;
+}
+A:visited{text-decoration: none;
+color:##424242;}
+A:active{text-decoration: none;
+color:#00FF00;}
+
+.footer {
+height:100px;
+}
+
+.game {position:relative;width:700px;height:400px;background:#fff;border:6px #000 solid;border-radius:10px;margin:0 auto;margin-top:50px;}
+
+.top {-webkit-border-bottom-right-radius: 10px;
+-webkit-border-bottom-left-radius: 10px;
+-moz-border-radius-bottomright: 10px;
+-moz-border-radius-bottomleft: 10px;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border:6px #000 solid;
+border-top:0px #000 solid;
+width:80%;
+height:90px;
+position:relative;
+margin:0 auto;
+background: #fff;
+min-width:640px;
+}
+
+.infobox {
+border:6px #000 solid;
+position:relative;
+top:50px;
+margin:0 auto;
+background: #fff;
+width:80%;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+min-width:640px;
+}
+
+.tecla {
+background: url("../ico/tecla.png") no-repeat scroll 50% 50% transparent;
+color: #5D5E4F;
+display: block;
+float: left;
+font-weight: bold;
+height: 16px;
+line-height: 12px;
+text-align: center;
+width: 16px;
+}
+
+a.user:link { color:#ff0000; }
+a.user:visited { color:#ff0000; }
+a.user:active { color:#ff0000; }
+a.user:hover { color:#ff0000; }
+
+

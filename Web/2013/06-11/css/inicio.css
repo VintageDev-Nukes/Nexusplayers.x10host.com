@@ -1,0 +1,242 @@
+html,body {
+	background: #FFFFFF url(images/background.png) repeat;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+	height:100%;
+	width:100%;
+	margin-top:0!important;padding-top:0!important;min-width:800px!important;margin:0;margin-bottom: 80px;
+}
+
+#logo {
+width:247px;
+height:33px;
+background: #2E2E2E;
+border: 1px #FFFFFF solid;
+}
+
+#content {
+position:relative;
+top:80px;
+background-color:#ffffff;
+border:solid #000000 1px;
+width:723px;
+}
+
+#pass {
+background-color:#ffffff;
+border:solid #000000 1px;
+width:250px;
+position:relative;
+top:200px;
+}
+
+#admin {
+background-color:#ffffff;
+border:solid #000000 1px;
+width:700px;
+position:relative;
+top:0px;
+}
+
+.sub {border:solid #000000 1px; text-align:center;}
+
+.titulos {  font-family: "Trebuchet MS", Verdana, Arial; font-size: 14px; font-weight: bold; color: #000000;}
+.txt_desc {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #333333; padding-right: 5px; padding-left: 5px}
+
+A {text-decoration: none;
+color:#000000;}
+A:hover {text-decoration: underline;
+color:#FF0000;
+}
+A:visited{text-decoration: none;
+color:##424242;}
+A:active{text-decoration: none;
+color:#00FF00;}
+
+.footer {
+height:100px;
+}
+
+.game {position:relative;width:700px;height:400px;background:#fff;border:30px #2e2e2e solid;border-radius:10px;margin:0 auto;margin-top:50px;}
+
+.top {
+-webkit-border-bottom-right-radius: 10px;
+-webkit-border-bottom-left-radius: 10px;
+-moz-border-radius-bottomright: 10px;
+-moz-border-radius-bottomleft: 10px;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border:6px #2e2e2e solid;
+border-top:0px #2e2e2e solid;
+width:80%;
+height:90px;
+position:relative;
+margin:0 auto;
+background: #fff;
+min-width:640px;
+}
+
+.infobox {
+border:6px #2e2e2e solid;
+position:relative;
+top:50px;
+margin:0 auto;
+/*padding:5px;*/
+background: #fff;
+width:80%;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+min-width:640px;
+}
+
+.tecla {
+background: url("../ico/tecla.png") no-repeat scroll 50% 50% transparent;
+color: #5D5E4F;
+display: block;
+float: left;
+font-weight: bold;
+height: 16px;
+line-height: 12px;
+text-align: center;
+width: 16px;
+}
+
+a.user:link { color:#ff0000; }
+a.user:visited { color:#ff0000; }
+a.user:active { color:#ff0000; }
+a.user:hover { color:#ff0000; }
+
+/* Estilos predeterminados de SMF*/
+
+div.cat_bar
+{
+	background: #99abbf url(../Themes/ikillcraft/images/theme/main_block.png) no-repeat 0 -160px;
+	padding-left: 9px;
+	height: 31px;
+	overflow: hidden;
+	margin-bottom: 1px;
+}
+
+h3.catbg
+{
+	color: #fff;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 1.1em;
+	font-weight: bold;
+	margin: 0 7px 0 7px;
+	line-height: 31px;
+}
+
+.flow_hidden .windowbg, .flow_hidden .windowbg2
+{
+	margin-top: 2px;
+}
+
+.windowbg span.topslice
+{
+	display: block;
+	padding-left: 20px;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 0 -30px no-repeat;
+}
+.windowbg span.topslice span
+{
+	display: block;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 100% -30px no-repeat;
+	height: 11px;
+}
+.windowbg span.botslice
+{
+	display: block;
+	padding-left: 20px;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 0 -40px no-repeat;
+	font-size: 5px;
+	line-height: 5px;
+	margin-bottom: 0.2em;
+}
+.windowbg span.botslice span
+{
+	display: block;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 100% -40px no-repeat;
+	height: 11px;
+}
+
+.windowbg2
+{
+	color: #000;
+	background-color: #f7f7f7;
+}
+
+.windowbg2 span.topslice
+{
+	display: block;
+	padding-left: 20px;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 0 -60px no-repeat;
+}
+.windowbg2 span.topslice span
+{
+	display: block;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 100% -60px no-repeat;
+	height: 11px;
+}
+.windowbg2 span.botslice
+{
+	display: block;
+	padding-left: 20px;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 0 -71px no-repeat;
+	font-size: 5px;
+	line-height: 5px;
+	margin-bottom: 0.2em;
+}
+.windowbg2 span.botslice span
+{
+	display: block;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 100% -71px no-repeat;
+	height: 11px;
+}
+.approvebg span.topslice
+{
+	display: block;
+	padding-left: 20px;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 0 0 no-repeat;
+}
+.approvebg span.topslice span
+{
+	display: block;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 100% 0 no-repeat;
+	height: 11px;
+}
+.approvebg span.botslice
+{
+	display: block;
+	padding-left: 20px;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 0 -11px no-repeat;
+	margin-bottom: 0.2em;
+}
+.approvebg span.botslice span
+{
+	display: block;
+	background: url(../Themes/ikillcraft/images/theme/main_block.png) 100% -11px no-repeat;
+	height: 11px;
+}
+.content
+{
+	padding: 0.5em 1.2em;
+	margin: 0;
+	border: none;
+}
+.content p
+{
+	margin: 0 0 0.5em 0;
+}
+
+/* Diseño BETA */
+
+.top {
+background: #2e2e2e; /* Old browsers */
+}
+
+.infobox {
+background: #2e2e2e; /* Old browsers */
+}
